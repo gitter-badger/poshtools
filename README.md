@@ -1,6 +1,8 @@
 PowerShell Tools for Visual Studio
 ===========
 
+[![Join the chat at https://gitter.im/adamdriscoll/poshtools](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/adamdriscoll/poshtools?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 PowerShell integration for Visual Studio. 
 
 Build status of adamdriscoll/poshtools: <a href="https://ci.appveyor.com/project/adamdriscoll/poshtools/branch/dev"><img src="https://ci.appveyor.com/api/projects/status/h9gfrh1xots5tg2y/branch/dev?svg=true"/></a><br/>
